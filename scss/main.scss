@@ -15,7 +15,7 @@ body {
       rgba(color(primary), 0.5),
       rgba(color(primary-light), 0.5)
     ),
-    url(img/headphones-bg.jpg);
+    url(../img/headphones-bg.jpg);
   background-size: cover;
 
   -webkit-clip-path: polygon(0 0, 100% 0, 100% 8vh, 0% 100%);
